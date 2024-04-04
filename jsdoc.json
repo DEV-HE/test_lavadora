@@ -1,0 +1,19 @@
+{
+    "source": {
+        "include": [
+            "flows",
+            "layers",
+            "plugin",
+            "services",
+            "app.js",
+            "utils.js"
+        ],
+        "includePattern": ".+\\.js(doc|x)?$",
+        "excludePattern": "(^|\\/|\\\\)_"
+    },
+    "opts": {
+        "recurse": true,
+        "destination": "./docs",
+        "readme": "./README.md"
+    }
+}
