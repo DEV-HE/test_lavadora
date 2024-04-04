@@ -1,5 +1,5 @@
 ### CHATBOT Whatsapp (Meta Provider)
-
+Un herramienta realizada con LangChain para la gestión de LLM como chatgpt, esta herramienta permitirá el asesoramiento con el cliente potencial para que este pueda abordar de manera no invasiva las estretegias. 
 <p align="center">
   <img width="300" src="https://i.imgur.com/Oauef6t.png">
 </p>
